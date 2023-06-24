@@ -1,5 +1,5 @@
 <svg 
-    class="w-fit h-fit"
+    class="w-full h-full"
     aria-label="Evans Stepanov - Full stack engineer"
     fill="currentColor"
     xmlns="http://www.w3.org/2000/svg" viewBox="0 0 224.88 117.85">
