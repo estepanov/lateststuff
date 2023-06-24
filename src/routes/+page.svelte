@@ -1,15 +1,21 @@
-<div class="flex justify-center items-center p-5 flex-col h-screen space-y-5">
-	<h1 class="block text-2xl">Evans Stepanov</h1>
-	<p class="text-sm italic">Software Engineer</p>
-	<ul class="flex flex-row space-x-6 text-base">
+<script>
+	import Logo from '../components/Logo.svelte'
+	import Link from '../components/Link.svelte'
+</script>
+<svelte:head>
+	<title>Evans Stepanov</title>
+</svelte:head>
+<div class="flex justify-center items-center p-5 flex-col h-screen space-y-10">
+	<div class="w-60 text-slate-900 dark:text-slate-100"><Logo /></div>
+	<ul class="flex flex-row space-x-6 text-sm uppercase tracking-wide">
 		<li>
-			<a class="text-green-600 hover:text-green-900 transition-all ease-in-out underline hover:no-underline" href="https://github.com/estepanov">GitHub</a>
+			<Link href="https://github.com/estepanov">GitHub</Link>
 		</li>
 		<li>
-			<a class="text-green-600 hover:text-green-900 transition-all ease-in-out underline hover:no-underline" href="https://linkedin.com/in/evansstepanov/">LinkedIn</a>
+			<Link href="https://linkedin.com/in/evansstepanov/">LinkedIn</Link>
 		</li>
 		<li>
-			<a class="text-green-600 hover:text-green-900 transition-all ease-in-out underline hover:no-underline" href="https://builtbyevans.com/">Projects</a>
+			<Link href="https://builtbyevans.com/">Projects</Link>
 		</li>
 	</ul>
 </div>
