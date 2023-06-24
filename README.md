@@ -1,6 +1,6 @@
-# My personal domain
+# Latest (GPU/CPU/Console)
 
-A very simple personal landing page, powered by [`create-svelte`](https://github.com/sveltejs/kit/tree/master/packages/create-svelte).
+A simple template used to build a few "latest" websites, powered by [`create-svelte`](https://github.com/sveltejs/kit/tree/master/packages/create-svelte).
 
 ## Developing
 

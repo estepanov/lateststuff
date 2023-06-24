@@ -1,0 +1,7 @@
+---
+layout: false
+title: "NVIDIA GeForce RTX 4060 Ti"
+date: "2023-07-30"
+sourceCreditUrl: "https://en.wikipedia.org/wiki/GeForce_40_series"
+priceUSD: 499
+---

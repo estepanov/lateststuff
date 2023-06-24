@@ -1,0 +1,7 @@
+---
+layout: false
+title: "Microsoft Xbox Series X"
+date: "2020-11-10"
+sourceCreditUrl: "https://en.wikipedia.org/wiki/Xbox"
+priceUSD: 499.99
+---
